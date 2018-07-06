@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeePaySlip", "EmployeePaySlip\EmployeePaySlip.csproj", "{AD95A513-D3EA-4EE0-8B84-6AEC721E5614}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeTests", "EmployeeTests\EmployeeTests.csproj", "{E81F732D-C52D-46E6-8A13-8B08B0112215}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD95A513-D3EA-4EE0-8B84-6AEC721E5614}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD95A513-D3EA-4EE0-8B84-6AEC721E5614}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD95A513-D3EA-4EE0-8B84-6AEC721E5614}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD95A513-D3EA-4EE0-8B84-6AEC721E5614}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E81F732D-C52D-46E6-8A13-8B08B0112215}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E81F732D-C52D-46E6-8A13-8B08B0112215}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E81F732D-C52D-46E6-8A13-8B08B0112215}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E81F732D-C52D-46E6-8A13-8B08B0112215}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4564D6F8-192F-41F0-87C4-DC3FDC1F3711}
+	EndGlobalSection
+EndGlobal
